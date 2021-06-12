@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="font-awesome.min.css">
     <script src="bootstrap.bundle.min.js"></script>
     <script src="jquery-3.3.1.slim.min.js"></script>
-    
+</head>
+<body>
     
  <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
