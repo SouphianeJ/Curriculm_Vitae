@@ -4,6 +4,7 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="MON_CV.css">
+    
 </head>
 <body>
     <header class="header">
@@ -238,9 +239,6 @@
     </section>
     
     <footer>
-        <p><a href="https://www.pierre-giraud.com">©Pierre Giraud</a> 2020</p>
-        <p>Reproduction à des fins commerciales interdite.</p>
-        <p>Merci de respecter le travail des auteurs en faisant un lien vers
-        le contenu original !</p>
+        <p>!</p>
     </footer>
 </body>
