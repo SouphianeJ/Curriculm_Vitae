@@ -19,13 +19,14 @@ a{
     color: #000;
 }
 
-/*HEADER & FOOTER*/
-header, footer{
-    width: 100%;
-    padding: 20px 0px;
-    background: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/cv-cover.jpg") #4f4f4f;
-    box-shadow: 0px 0px 15px #333;
-}
+/*HEADER & FOOTER
+*, footer{
+*    width: 100%;
+*    padding: 20px 0px;
+*    background: url("https://www.pierre-giraud.com/wp-content/uploads/2019/07/cv-cover.jpg") #4f4f4f;
+*    box-shadow: 0px 0px 15px #333;
+*}
+*/
 header{
     border-bottom: 2px solid #fff;
     height: 120px;
