@@ -7,11 +7,12 @@
 </head>
 <body>
     <header>
-        <h1>
+        <div class="col-sm-4 col-md-4 col-lg-4">
         <div class="photo">
             <img src="https://drive.google.com/uc?id=1muz6kpncnjJEc_hno0wAqw1gx_V_0rk9" alt="Photo de profil">
         </div>
-        Souphiane JENDER</h1>
+        </div>
+        <h1>Souphiane JENDER</h1>
     </header>
     
     <section>
