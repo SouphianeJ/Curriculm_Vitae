@@ -12,7 +12,9 @@
             <img src="https://drive.google.com/uc?id=1muz6kpncnjJEc_hno0wAqw1gx_V_0rk9" alt="Photo de profil">
         </div>
         </div>
+        <div class="col-sm-8 col-md-8 col-lg-8">
         <h1>Souphiane JENDER</h1>
+        </div>
     </header>
     
     <section>
