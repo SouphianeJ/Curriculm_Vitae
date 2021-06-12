@@ -12,8 +12,7 @@
     
     <section>
         <div class="photo">
-            <img src="https://www.pierre-giraud.com/wp-content/uploads/2019/07/cv-profil.jpg" alt="Ma photo de profil">
-            <iframe title="Correction pour les enseignants 2020" width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://parissaclay.mediasite.com/Mediasite/Play/8aaf778259a742afa8e26fb9209e4e671d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
+            <img src="https://drive.google.com/file/d/1muz6kpncnjJEc_hno0wAqw1gx_V_0rk9/view?usp=sharing" alt="Photo de profil">
         </div>
         <div class="prez">
             <h2>Qui suis-je ?</h2>
