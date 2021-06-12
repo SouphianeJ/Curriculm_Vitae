@@ -7,13 +7,14 @@
 </head>
 <body>
     <header>
+        <div class="photo">
+            <img src="https://drive.google.com/uc?id=1muz6kpncnjJEc_hno0wAqw1gx_V_0rk9" alt="Photo de profil">
+        </div>
         <h1>Souphiane JENDER</h1>
     </header>
     
     <section>
-        <div class="photo">
-            <img src="https://drive.google.com/uc?id=1muz6kpncnjJEc_hno0wAqw1gx_V_0rk9" alt="Photo de profil">
-        </div>
+        
         <div class="prez">
             <h2>Qui suis-je ?</h2>
             <p>Diplômé d'un master 2 "Entrepreneuriat et Innovation" (Programme Grande
