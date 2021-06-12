@@ -5,6 +5,7 @@
           content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link href="carousel.css" rel="stylesheet">
+    <link href="imagepr.css" rel="stylesheet">
 </head>
 <body>
     
